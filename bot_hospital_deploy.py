@@ -13,7 +13,7 @@ import pandas as pd
 from telegram.constants import ParseMode
 
 ## -------------------------- Conexão DB -------------------------- ##
-database_url = "postgresql://db_bot_medicacaov2_ezpd_user:JhYj2Te0cN8qLlMsTKPJomosC1G7TDBM@dpg-cu5sfeaj1k6c73f1fggg-a.oregon-postgres.render.com/db_bot_medicacaov2_ezpd"
+database_url = "postgresql://db_bot_medicacaov2_xi9p_user:Kn3Irb9oGJnmVrXv3xYd6JIKHvdDIxMF@dpg-cu5u2ld2ng1s73bk49og-a/db_bot_medicacaov2_xi9p"
 
 url = urlparse(database_url)
 
