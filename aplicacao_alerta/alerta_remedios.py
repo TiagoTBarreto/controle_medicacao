@@ -14,7 +14,7 @@ TOKEN = '7864374268:AAFf-24MzpFBm7Z8zR1FWCAnv1xvB6h_99Q'
 url = f'https://api.telegram.org/bot{TOKEN}/sendMessage'
 
 # URL de conexão com o banco de dados
-database_url = "postgresql://db_bot_medicacaov2_xi9p_user:Kn3Irb9oGJnmVrXv3xYd6JIKHvdDIxMF@dpg-cu5u2ld2ng1s73bk49og-a.oregon-postgres.render.com/db_bot_medicacaov2_xi9p"
+database_url = "postgresql://db_bot_medicacaov2_gzom_user:NVPCbyvTXX6pU49hFFW5J0hHGotIKHrK@dpg-cu7dqgjv2p9s73bfnfb0-a/db_bot_medicacaov2_gzom"
 
 # Parse da URL de conexão
 parsed_url = urlparse(database_url)
