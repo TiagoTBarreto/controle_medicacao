@@ -1,6 +1,8 @@
 psycopg2
+pandas
+python-telegram-bot
 requests
 schedule
 urllib3
 python-dateutil
-
+tabulate
